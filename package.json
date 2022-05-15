@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe-javascript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juliiis/Tic-Tac-Toe-JavaScript.git"
+  },
+  "author": "julieta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juliiis/Tic-Tac-Toe-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Juliiis/Tic-Tac-Toe-JavaScript#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
